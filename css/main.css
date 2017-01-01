@@ -29,11 +29,11 @@ ul.posts li { list-style: none; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
 
 /* Projects */
-.project-names{
+.projects li{
   font-family:'Helvetica';
   font-weight:bold;
 }
-.descriptions{
+.projects p{
   font-size: 1em;
   font-family:'Arial';
 }
